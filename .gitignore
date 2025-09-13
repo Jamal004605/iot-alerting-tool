@@ -1,0 +1,5 @@
+config.yml
+alerts.log
+venv/
+__pycache__/
+*.pyc
